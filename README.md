@@ -1,4 +1,4 @@
-# Discord Webhook Manager
+# Discord Webhook Manager by Tamino1230
 
 A versatile Python-based tool for sending, managing, and configuring Discord webhook messages through a user-friendly command-line interface.
 
